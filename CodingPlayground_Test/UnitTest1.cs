@@ -8,6 +8,8 @@ namespace CodingPlayground_Test
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.IsTrue(false);
+
         }
     }
 }
